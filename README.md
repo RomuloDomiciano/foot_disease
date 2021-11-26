@@ -1,16 +1,19 @@
-# foot_disease
+# Foot Disease
 
-A new Flutter project.
+This is an app for orthopedic physician with foot and ankle specialization document their patients foot and ankle diseases. The is an app developed for studies ends, I do not intend to sell nor commercialize this app. I will not save any personal data. Feel free to download.
 
-## Getting Started
+This app uses Getx as the main state management and the architecture I have chosen is Model View Controller.
 
-This project is a starting point for a Flutter application.
+# How the app is going to look like?
 
-A few resources to get you started if this is your first Flutter project:
+The design was made with Canvas, by my girlfriend who was getting started as a product designer by the time.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/42695800/143514266-d452cb5d-af03-4f9d-a6b7-79f7f6650dfa.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Will there be Api calls?
+
+From this public version, I will not create any api call, because of Brazilian Law of Data Protection. Therefore, it will all be mocked data.
+
+# Getting started
+
+Based on your OS system, download Flutter to your computer (https://docs.flutter.dev/get-started/install), open your code editor and run the project.
