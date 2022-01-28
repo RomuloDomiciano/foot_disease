@@ -11,7 +11,7 @@ class Main extends StatelessWidget {
       //title: controller.appName,
       debugShowCheckedModeBanner: kDebugMode,
       defaultTransition: Transition.rightToLeft,
-      initialRoute: Routes.LOGIN,
+      initialRoute: Routes.login,
       getPages: Pages.pages,
       locale: const Locale('pt', 'BR'),
       fallbackLocale: const Locale('en', 'US'),
