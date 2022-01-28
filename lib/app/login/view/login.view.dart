@@ -39,9 +39,7 @@ class LoginView extends GetView<LoginController> {
                   ),
                   ClickAbleText(
                     text: 'Esquecei a senha',
-                    onTapAction: () {
-                      print('gozei');
-                    },
+                    onTapAction: () {},
                   ),
                   SizedBox(
                     height: 25,
