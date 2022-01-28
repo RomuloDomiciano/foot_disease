@@ -5,14 +5,13 @@ import 'package:foot_disease/routes/pages.dart';
 import 'package:foot_disease/dictionary/dictionary.dart';
 
 class Main extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
       //title: controller.appName,
       debugShowCheckedModeBanner: kDebugMode,
       defaultTransition: Transition.rightToLeft,
-   //   initialRoute: Routes.home,
+      initialRoute: Routes.LOGIN,
       getPages: Pages.pages,
       locale: const Locale('pt', 'BR'),
       fallbackLocale: const Locale('en', 'US'),
