@@ -6,13 +6,9 @@ This app uses Getx as the main state management and the architecture I have chos
 
 # How the app is going to look like?
 
-The design was made with Canvas, by my girlfriend who was getting started as a product designer by the time.
+The design was made with Canvas
 
 https://user-images.githubusercontent.com/42695800/143514266-d452cb5d-af03-4f9d-a6b7-79f7f6650dfa.mp4
-
-# Will there be Api calls?
-
-From this public version, I will not create any api call, because of Brazilian Law of Data Protection. Therefore, it will all be mocked data.
 
 # Getting started
 
