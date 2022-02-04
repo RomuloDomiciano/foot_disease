@@ -1,3 +1,8 @@
-import 'package:get/get_state_manager/get_state_manager.dart';
+import 'package:get/get.dart';
+import 'package:foot_disease/routes/pages.dart';
 
-class LoginController extends GetxController {}
+class LoginController extends GetxController {
+  void createAccount() {
+    Get.toNamed(Routes.createAccount);
+  }
+}
